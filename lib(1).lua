@@ -1858,7 +1858,7 @@ end
 -- ============================================================
 
 library.gui = library:create("ScreenGui", {
-	Enabled = false,
+	Enabled = true,
 	Parent = coregui,
 	Name = "",
 	DisplayOrder = 2,
